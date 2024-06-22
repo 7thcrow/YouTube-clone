@@ -12,7 +12,7 @@ This project is a simple YouTube clone built using HTML and CSS. It was created 
 
 - **Navigation Icons**: The page includes navigation icons similar to YouTube.
 
-![Nav_icons](youtube/images/nav_icons.png)
+ ![Nav_icons](youtube/images/nav_icons.png)
 
 - **Search Bar**: A search bar is present but does not have functional interaction, as the site is intended for practice purposes.
 ![Header](youtube/images/header.png)
