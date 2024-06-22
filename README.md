@@ -2,7 +2,6 @@
 
 This project is a simple YouTube clone built using HTML and CSS. It was created as a practice project to better understand front-end development.
 
-##*Interface*
 ![Interface](youtube/images/interface.png)
 
 ## Features
