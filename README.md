@@ -20,9 +20,9 @@ This project is a simple YouTube clone built using HTML and CSS. It was created 
 - **Responsive Design**: The site adjusts its layout for optimal viewing on different screen sizes. When the window width is less than 1000 pixels, the layout changes to display three videos per row instead of four, and the navigation bar becomes more compact
 ![Response](youtube/images/response.png)
 
-###Usage
+### Usage
 -Click on any video or title to open the video.
 -Hover over the profile picture to see channel information.
 
-####License
+#### License
 This project is open source and available under the MIT License.
