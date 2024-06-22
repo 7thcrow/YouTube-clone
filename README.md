@@ -8,6 +8,7 @@ This project is a simple YouTube clone built using HTML and CSS. It was created 
 
 - **Video Navigation**: You can click on a video or its title to open the video.
 - **Profile Hover Info**: Hovering over the profile picture will display channel information in a small popup window.
+
  ![PPH](youtube/images/profile_picture_hover.png)
 
 - **Navigation Icons**: The page includes navigation icons similar to YouTube.
