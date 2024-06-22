@@ -22,8 +22,8 @@ This project is a simple YouTube clone built using HTML and CSS. It was created 
 ![Response](youtube/images/response.png)
 
 ## Usage
--Click on any video or title to open the video.
--Hover over the profile picture to see channel information.
+- Click on any video or title to open the video.
+- Hover over the profile picture to see channel information.
 
 ## License
 This project is open source and available under the MIT License.
